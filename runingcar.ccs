@@ -1,0 +1,53 @@
+<Solution>
+  <PropertyGroup Name="runingcar" Version="3.10.0.0" Type="CocosStudio" />
+  <SolutionFolder>
+    <Group ctype="ResourceGroup">
+      <RootFolder Name=".">
+        <Folder Name="texture">
+          <File Name=".DS_Store" />
+          <Image Name="1.png" />
+          <Image Name="1.PNG" />
+          <File Name="2.gif" />
+          <Image Name="2.png" />
+          <Image Name="2-1.png" />
+          <Image Name="3.png" />
+          <Image Name="3-1.png" />
+          <Image Name="a1.png" />
+          <Image Name="arrow.png" />
+          <Image Name="background0.png" />
+          <Image Name="background1.png" />
+          <Image Name="background2.png" />
+          <Image Name="background3.png" />
+          <Image Name="background5.PNG" />
+          <Image Name="background51.PNG" />
+          <Image Name="background511.png" />
+          <Image Name="background6.png" />
+          <Image Name="btn_gameCenter.png" />
+          <Image Name="btn_home.png" />
+          <Image Name="btn_rate.png" />
+          <Image Name="btn_replay.png" />
+          <Image Name="btn_share.png" />
+          <Image Name="guide_text.png" />
+          <Image Name="notify.png" />
+          <Image Name="overSoreBg.png" />
+          <Image Name="redsig.png" />
+          <Image Name="scoreBg.png" />
+          <Image Name="stick_black.png" />
+          <Image Name="switchover.png" />
+          <Image Name="switchover1.png" />
+          <Image Name="switchover2.png" />
+          <Image Name="w.png" />
+        </Folder>
+        <Fnt Name="arial16.fnt" />
+        <Project Name="ExitLayer.csd" Type="Layer" />
+        <TTF Name="FontFelt.ttf" />
+        <Project Name="GameOverLayer.csd" Type="Layer" />
+        <Project Name="LoaderLayer.csd" Type="Layer" />
+        <Image Name="narrowpillars.png" />
+        <Project Name="RanksLayer.csd" Type="Layer" />
+        <Project Name="ScoreLayer.csd" Type="Layer" />
+        <Project Name="SwitchPlayer.csd" Type="Layer" />
+      </RootFolder>
+    </Group>
+  </SolutionFolder>
+</Solution>
